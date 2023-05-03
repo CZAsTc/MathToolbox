@@ -82,8 +82,10 @@ while True:
     if mode_1 == "q":
         break
     if mode == 1:
-        print("")
-        mode_1 = int(input(""""""))
+        mode_1 = int(input("""计算第n个斐波那契数请输入1
+列出1~n个斐波那契数请输入2
+判断一个数是否为斐波那契数请输入3
+请输入："""))
         if mode_1 == 1:
             print("计算第几个斐波那契数？")
             number = int(input("请输入："))
