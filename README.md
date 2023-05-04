@@ -6,7 +6,7 @@
 
 ### NumPy
 
-[NumPy官网 点击跳转] (https://numpy.org)
+[NumPy官网 点击跳转](https://numpy.org)
 
 安装时在终端窗口中输入：pip install numpy
 
