@@ -1286,12 +1286,12 @@ while True:
             mode_2 = int(input(text))
             if mode_2 == 1:
                 text = """使用正弦函数(sin)请输入1
-    使用余弦函数(cos)请输入2
-    使用正切函数(tan)请输入3
-    使用余切函数(cot)请输入4
-    使用正割函数(sec)请输入5
-    使用余割函数(csc)请输入6
-    请输入："""
+使用余弦函数(cos)请输入2
+使用正切函数(tan)请输入3
+使用余切函数(cot)请输入4
+使用正割函数(sec)请输入5
+使用余割函数(csc)请输入6
+请输入："""
                 mode_3 = int(input(text))
                 if mode_3 == 1:
                     number = Decimal(input("请输入要计算的数："))
